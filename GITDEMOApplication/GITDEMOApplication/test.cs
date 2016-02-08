@@ -8,6 +8,7 @@ namespace GITDEMOApplication
 {
     class test
     {
+        //test from github
         //test from VS
     }
 }
